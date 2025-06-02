@@ -30,4 +30,4 @@ chmod +x dotr07.sh
 
 ## 👨‍💻 Geliştirici
 - **d0tr07**
-- GitHub: https://github.com/KULLANICIADIN
+- GitHub: https://github.com/kocbey
