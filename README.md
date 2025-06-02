@@ -1,29 +1,33 @@
-# D0TR07
-D0tr07  Cyber Tool kit V1 Gelişmiş Pentest &amp; AI Destekli Türkçe Toolkit — Otomatik kurulum, zengin menü sistemi ve yapay zekâ modülü ile birlikte
 
-
-
-
-#Readme 
 # dotr07 Pentest Toolkit
 
-Gelişmiş Türkçe sızma testi aracı!  
-20 farklı modül, 100+ araç ve yapay zekâ destekli analiz özellikleri içerir.  
-Komut satırı üzerinden çalışır, otomatik kurulum desteği vardır.
+Gelişmiş, Türkçe destekli bir sızma testi aracı.  
+Bu araç, 20 ana menü altında yüzlerce farklı güvenlik aracı ve yapay zekâ destekli analiz yetenekleriyle donatılmıştır.  
+Python, Bash ve çeşitli Linux tabanlı sistemler ile tam uyumludur.
 
-## Özellikler
-- 📌 20 Ana Menü + 100 Alt Araç
-- 🤖 Yapay zekâ destekli analiz motoru
-- 🇹🇷 Tam Türkçe arayüz ✅
-- ⚙️ Python & Bash tabanlı yapı -
-- 🛠️ Otomatik güncelleme ve hata kontrol sistemi -
+## 🚀 Özellikler
+- 20+ ana modül, her biri altında 5 farklı alt araç
+- Yapay zekâ destekli analiz sistemi (AI destekli siber değerlendirme)
+- Tamamen Türkçe terminal arayüzü
+- Otomatik kurulum ve güncelleme destekli
+- Geliştirilebilir, açık kaynak yapı
 
-## Kurulum
+## ⚙️ Kurulum
 ```bash
-git clone https://github.com/kocbey/D0TR07.git
-cd D0TR07
-chmod +x D0TR07.sh
-./D0TR07.sh
+git clone https://github.com/KULLANICIADIN/dotr07-pentest-toolkit.git
+cd dotr07-pentest-toolkit
+chmod +x dotr07.sh
+./dotr07.sh
+```
 
-# Credit by Kocbey
-# made in turkish
+## 📁 İçerik
+- dotr07.sh (Ana başlatıcı)
+- moduller/ (20+ modül scripti)
+- ai/ (AI destekli analiz sistemi)
+- tools/ (Araç çalıştırıcılar)
+- assets/ (Görseller, ASCII logolar)
+- logs/ (Çıktı dosyaları)
+
+## 👨‍💻 Geliştirici
+- **d0tr07**
+- GitHub: https://github.com/KULLANICIADIN
