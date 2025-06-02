@@ -20,10 +20,10 @@ Komut satırı üzerinden çalışır, otomatik kurulum desteği vardır.
 
 ## Kurulum
 ```bash
-git clone https://github.com/kullaniciadi/dotr07-pentest-toolkit.git
-cd dotr07-pentest-toolkit
-chmod +x dotr07.sh
-./dotr07.sh
+git clone https://github.com/kocbey/D0TR07.git
+cd D0TR07
+chmod +x D0TR07.sh
+./D0TR07.sh
 
 # Credit by Kocbey
 # made in turkish
