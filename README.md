@@ -14,10 +14,10 @@ Python, Bash ve çeşitli Linux tabanlı sistemler ile tam uyumludur.
 
 ## ⚙️ Kurulum
 ```bash
-git clone https://github.com/KULLANICIADIN/dotr07-pentest-toolkit.git
-cd dotr07-pentest-toolkit
+git clone https://github.com/kocbey/d0tr07_toolkit.git
+cd dotr07_toolkit
 chmod +x dotr07.sh
-./dotr07.sh
+./dotr07_toolkit.sh
 ```
 
 ## 📁 İçerik
