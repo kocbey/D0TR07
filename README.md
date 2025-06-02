@@ -15,9 +15,9 @@ Python, Bash ve çeşitli Linux tabanlı sistemler ile tam uyumludur.
 ## ⚙️ Kurulum
 ```bash
 git clone https://github.com/kocbey/d0tr07_toolkit.git
-cd dotr07_toolkit
-chmod +x dotr07.sh
-./dotr07_toolkit.sh
+cd d0tr07_toolkit
+chmod +x d0tr07_toolkit.sh
+./d0tr07_toolkit.sh
 ```
 
 ## 📁 İçerik
